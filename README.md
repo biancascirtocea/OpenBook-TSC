@@ -93,7 +93,7 @@ Arhitectură: RISC-V 32-bit
 - Protecție: Protecție ESD integrată și diodă Schottky pentru siguranța la polaritate inversă
 
 ###  Butoane și Interfața Utilizator
-- Butoane tactile pentru navigare și control.
+- Butoane tactile, realizate de la zero
 
 ### Extensii:
 - Header Qwiic pentru conectarea de senzori I2C plug-and-play.
@@ -128,12 +128,6 @@ Interfață utilizator intuitivă pentru navigare și citire
 Capacitate de sincronizare wireless cu dispozitive și servicii externe
 Personalizare avansată a experienței de citire
 Monitorizare și înregistrare a datelor de mediu
-
-## Note de Design
-Layout PCB optimizat pentru minimizarea interferențelor și maximizarea eficienței energetice.
-Componente selectate pentru consum redus de energie și performanță fiabilă.
-Soluții de protecție integrate pentru componente sensibile.
-Design compact pentru portabilitate ridicată.
 
 ---
 
