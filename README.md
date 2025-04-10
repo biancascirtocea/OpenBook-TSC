@@ -8,7 +8,7 @@ Proiectul **OpenBook ESP32-C6** este o platforma hardware compacta si portabila,
 
 ## Diagramă bloc
 
-![alt text](./image-2.png)
+![430666922-ddbbfbfa-e72c-47d6-83a7-a39f880fc3e8](https://github.com/user-attachments/assets/ff4b5541-3f56-410d-9bba-c395bd3b82df)
 
 ---
 
