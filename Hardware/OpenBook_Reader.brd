@@ -2568,11 +2568,10 @@ Source: www.farnell.com/datasheets/49238.pdf</description>
 </via>
 <via x="121.81075" y="15.3735" extent="1-16" drill="0.3">
 </via>
-<polygon width="0.1524" layer="16" spacing="1.27" pour="solid" orphans="yes" thermals="yes">
-<vertex x="-15.6438" y="-28.6838"/>
-<vertex x="178.8738" y="-28.6838"/>
-<vertex x="178.8738" y="107.1438"/>
-<vertex x="-15.6438" y="107.1438"/>
+<polygon width="0.1524" layer="16" spacing="1.27" pour="solid" thermals="yes">
+<vertex x="172.7462" y="52.1362"/>
+<vertex x="173.00634375" y="52.1362"/>
+<vertex x="172.7462" y="53.38851875"/>
 </polygon>
 <polygon width="0.1524" layer="1" spacing="1.27" pour="solid" orphans="yes" thermals="yes">
 <vertex x="-9.2638" y="-23.4838"/>
